@@ -11,6 +11,12 @@ Dự án này được tham khảo và phát triển dựa trên các repository
 
 ## Hướng dẫn sử dụng
 
+### Truy cập dashboard
+
+-   Nhập: `localhost` vào trình duyệt để sử dụng dashboard
+
+-   Có các Quick Actions cho mọi người thao tác nhanh như: `phpMyAdmin`, `Mailbox`, `PHP Info`
+
 ### Cài đặt
 
 Bạn có thể tải về trực tiếp hoặc clone repository này vào thư mục chứa các website của Laragon (ví dụ `C:\laragon\www`):
